@@ -8,4 +8,4 @@ Un blog increible
 * Te enseña el valor de las buenas practicas.
 
 **Este readme.md es un chiste.**
-##Esta diseñado con el simple objetivo de aprender.
+## Esta diseñado con el simple objetivo de aprender.
