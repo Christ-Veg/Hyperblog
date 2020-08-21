@@ -7,6 +7,11 @@ Un blog increible
 * Todos los comandos de Git.
 * Te enseña el valor de las buenas practicas.
 * Creado por Christan basado en lo aprendido en Platzi.
+<<<<<<< HEAD
+=======
+* Esta hecho con mucho esfuerzo
+* Disponible para todas las edades.
+>>>>>>> readme-mejorado
 
 **Este readme.md es un chiste.**
 ## Esta diseñado con el simple objetivo de aprender.
