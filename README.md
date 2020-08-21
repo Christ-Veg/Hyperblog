@@ -6,6 +6,7 @@ Un blog increible
 * El flujo de trabajo en GitHub.
 * Todos los comandos de Git.
 * Te enseña el valor de las buenas practicas.
+* Creado por Christan basado en lo aprendido en Platzi.
 
 **Este readme.md es un chiste.**
 ## Esta diseñado con el simple objetivo de aprender.
